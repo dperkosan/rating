@@ -1,0 +1,41 @@
+{
+    "name": "diwanee/rating",
+    "description": "Rating module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damir Perkosan",
+            "email": "dperkosan@gmail.com",
+            "homepage": "https://github.com/dperkosan"
+        }
+    ],
+    "homepage": "https://github.com/dperkosan/rating",
+    "keywords": ["Laravel", "Rating"],
+    "require": {
+        "illuminate/support": "~5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0",
+        "orchestra/testbench": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Diwanee\\Rating\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Diwanee\\Rating\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Diwanee\\Rating\\RatingServiceProvider"
+            ],
+            "aliases": {
+                "Rating": "Diwanee\\Rating\\Facades\\Rating"
+            }
+        }
+    }
+}
