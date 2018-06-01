@@ -37,7 +37,7 @@ If you discover any security related issues, please email author email instead o
 
 ## Credits
 
-- [author name][link-author]
+- [Damir Perkosan][link-author]
 - [All Contributors][link-contributors]
 
 ## License
@@ -46,7 +46,7 @@ license. Please see the [license file](license.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/diwanee/rating.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/diwanee/rating.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/diwanee/rating/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/dperkosan/rating/master.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/135701895/shield
 
 [link-packagist]: https://packagist.org/packages/diwanee/rating
@@ -54,4 +54,4 @@ license. Please see the [license file](license.md) for more information.
 [link-travis]: https://travis-ci.org/diwanee/rating
 [link-styleci]: https://styleci.io/repos/135701895
 [link-author]: https://github.com/dperkosan
-[link-contributors]: ../../contributors]
+[link-contributors]: ../../contributors
