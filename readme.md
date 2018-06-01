@@ -51,7 +51,7 @@ license. Please see the [license file](license.md) for more information.
 
 [link-packagist]: https://packagist.org/packages/diwanee/rating
 [link-downloads]: https://packagist.org/packages/diwanee/rating
-[link-travis]: https://travis-ci.org/diwanee/rating
+[link-travis]: https://travis-ci.org/dperkosan/rating
 [link-styleci]: https://styleci.io/repos/135701895
 [link-author]: https://github.com/dperkosan
 [link-contributors]: ../../contributors
